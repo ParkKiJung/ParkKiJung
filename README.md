@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={pkj8624})](https://solved.ac/{pkj8624})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=pkj8624)](https://solved.ac/pkj8624)
 
 <!--
 **ParkKiJung/ParkKiJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
